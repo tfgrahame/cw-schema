@@ -1,2 +1,2 @@
 # cw-schema
-The Creative Work schema
+The Creative Work XSD
